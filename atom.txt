@@ -1,0 +1,5 @@
+1. CTRL-a basılı saxlayaraq istədiyimiz yerə klikləyirik və çoxlu kursor əldə edirik.
+2. CTRL + SHIFT + D        | Sətri kopyalayır
+3. CTRL + UP (və ya DOWN)  | Sətri yuxarı və ya aşağı tərpədir
+4. CTRL + D                | Kursoru sözün üstünə gətirib bu kombinasiyaya basanda sözü seçir
+5. 
