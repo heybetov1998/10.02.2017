@@ -2,4 +2,5 @@
 2. CTRL + SHIFT + D        | Sətri kopyalayır
 3. CTRL + UP (və ya DOWN)  | Sətri yuxarı və ya aşağı tərpədir
 4. CTRL + D                | Kursoru sözün üstünə gətirib bu kombinasiyaya basanda sözü seçir
-5. 
+5. CTRL + U                | Seçilən sözü unselect eliyir
+6. ALT + F3                | Eyni bir sözdən nə qədər varsa hamısını seçir
